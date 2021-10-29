@@ -48,3 +48,14 @@ font-size: 19px;
     padding-left: 20px;
 
 }
+.block-small {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.form-check{
+    background-color:#00bb00 ;
+    padding: 20px 65px;
+    margin-top: 7px;
+}
